@@ -14,5 +14,5 @@
 
 ##### NOW
 
-- ✨ Crafted last - [nandinim.design](https://nandinim.design) website. Fun fact! The 3 colors featured on my website represent the primary colors I used                       for the 3 projects featured on my portfolio!;
+- ✨ Crafted last - [nandinim.design](https://nandinim.design) website. Fun fact! The 3 colors featured on my website represent the primary colors I used                       for the 3 projects featured on my portfolio;
 - ✨ Just finished a 4-month internship at Arthur Health Coorporation as a Software Developer!
