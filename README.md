@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently looking for an internship for **Fall 2022**
+- 🏢 I'm an incoming developer at **RBC** for Fall 2022
 - ⚙️ I use daily: `.html`, `.js`, `.css`, `.cpp`
 - 💅 Designed: [gastronomous.ca](https://www.gastronomous.ca)
 - 🌱 Learning all about **Typescript and C#**
