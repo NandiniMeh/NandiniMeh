@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm a developer at **RBC** for Fall 2022
-- ⚙️ I use daily: `.html`, `.js`, `.css`, `.cpp`
+- ⚙️ I use daily: `.html`, `.js`, `.css`, `.cpp`, react
 - 💅 Designed: [gastronomous.ca](https://www.gastronomous.ca), [nandinim.design](https://nandinim.design)
 - 🌱 Learning all about **Typescript and C#**
 - 💬 Ping me about **design**, **development**, **user research and interface**, **book recommendations**, **life at university of waterloo**, **vinyl record hunting in waterloo/toronto**;
