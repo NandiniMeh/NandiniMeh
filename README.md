@@ -16,3 +16,6 @@
 
 - ✨ Crafted last - [nandinim.design](https://nandinim.design) website. Fun fact! The 3 colors featured on my website represent the primary colors I used                       for the 3 projects featured on my portfolio;
 - ✨ Just completed a 4-month internship at Arthur Health Coorporation as a Software Developer, as well as my 2B term at at the University of Waterloo!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
