@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="20px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
 #### I'm a Student Designer and Developer studying Computer Science and Human Computer Interaction at the University of Waterloo. Obsessed with making things and even more obsessed with making things better! Excited to delve into my enthusiasm for technology and art.
 
