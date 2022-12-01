@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Student Designer and Developer studying Computer Science and Human Computer Interaction at the University of Waterloo
+#### I'm a Student Designer and Developer studying Computer Science and Human Computer Interaction at the University of Waterloo. Obsessed with making things and even more obsessed with making things better! Excited to delve into my enthusiasm for technology and art.
 
 ##### BIO
 
