@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm an incoming developer at **RBC** for Fall 2022
+- 🏢 I'm a developer at **RBC** for Fall 2022
 - ⚙️ I use daily: `.html`, `.js`, `.css`, `.cpp`
 - 💅 Designed: [gastronomous.ca](https://www.gastronomous.ca), [nandinim.design](https://nandinim.design)
 - 🌱 Learning all about **Typescript and C#**
