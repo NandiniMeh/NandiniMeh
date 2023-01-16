@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm a developer at **RBC** for Fall 2022
+- 🏢 Currently looking for Summer 2023 internship opportunities!
 - ⚙️ I use daily: `.html`, `.js`, `.css`, `.cpp`, react
 - 💅 Designed: [gastronomous.ca](https://www.gastronomous.ca), [nandinim.design](https://nandinim.design)
 - 🌱 Learning all about **Typescript and C#**
@@ -16,7 +16,7 @@
 
 - ✨ Crafted last - [nandinim.design](https://nandinim.design) website. Fun fact! The 3 colors featured on my website represent the primary colors I used                       for the 3 projects featured on my portfolio;
 - ✨ Developed - Resume Builder, read the repository for more information and a walkthrough!
-- ✨ Just completed a 4-month internship at Arthur Health Coorporation as a Software Developer, as well as my 2B term at at the University of Waterloo!
+- ✨ Just completed a 4-month internship at RBC as a Frontend Developer, and currently on my 3A term at at the University of Waterloo!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
