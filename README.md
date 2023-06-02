@@ -4,19 +4,21 @@
 
 ##### BIO
 
-- 🏢 Currently looking for Summer 2023 internship opportunities!
+- 🏢 Currently looking for Winter 2024 internship opportunities!
 - ⚙️ I use daily: `.html`, `.js`, `.css`, `.cpp`, react
 - 💅 Designed: [gastronomous.ca](https://www.gastronomous.ca), [nandinim.design](https://nandinim.design)
 - 🌱 Learning all about **Typescript and C#**
 - 💬 Ping me about **design**, **development**, **user research and interface**, **book recommendations**, **life at university of waterloo**, **vinyl record hunting in waterloo/toronto**;
 - 📫 Reach me: [n3mehrot@uwaterloo.ca](mailto:n3mehrot@uwaterloo.ca)
 - ⚡️ Fun fact: I love collecting Vinyl Records!
+- Favorite Course at UWaterloo: CS349
 
 ##### NOW
 
-- ✨ Crafted last - [nandinim.design](https://nandinim.design) website. Fun fact! The 3 colors featured on my website represent the primary colors I used                       for the 3 projects featured on my portfolio;
+- ✨ Crafted last - [nandinim.design](https://nandinim.design) website.
 - ✨ Developed - Resume Builder, read the repository for more information and a walkthrough!
-- ✨ Just completed a 4-month internship at RBC as a Frontend Developer, and currently on my 3A term at at the University of Waterloo!
+- ✨ Currently working at RBC Capital Markets as a FullStack Developer Intern!
+- ✨ Completed my 3A term at University of Waterloo
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
