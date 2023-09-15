@@ -17,8 +17,7 @@
 
 - ✨ Crafted last - [nandinim.design](https://nandinim.design) website.
 - ✨ Developed - Resume Builder, read the repository for more information and a walkthrough!
-- ✨ Currently working at RBC Capital Markets as a FullStack Developer Intern!
-- ✨ Completed my 3A term at University of Waterloo
+- ✨ Currently in my 3B term of Computer Science at University of Waterloo!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
