@@ -1,23 +1,40 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 
-#### I'm a Student Designer and Developer studying Computer Science and Human Computer Interaction at the University of Waterloo. Obsessed with making things and even more obsessed with making things better! Excited to delve into my enthusiasm for technology and art.
+I'm **Nandini Mehrotra**, a soon-to-be-graduate blending **Computer Science** and **Human‑Computer Interaction** at the **University of Waterloo**, class of **August 2025**. I craft thoughtful systems—from intuitive UIs to full-stack tools—that balance technical precision with a human touch.
 
-##### BIO
+---
 
-- 🏢 Currently looking for Winter 2024 internship opportunities!
-- ⚙️ I use daily: `.html`, `.js`, `.css`, `.cpp`, react
-- 💅 Designed: [gastronomous.ca](https://www.gastronomous.ca), [nandinim.design](https://nandinim.design)
-- 🌱 Learning all about **Typescript and C#**
-- 💬 Ping me about **design**, **development**, **user research and interface**, **book recommendations**, **life at university of waterloo**, **vinyl record hunting in waterloo/toronto**;
-- 📫 Reach me: [n3mehrot@uwaterloo.ca](mailto:n3mehrot@uwaterloo.ca)
-- ⚡️ Fun fact: I love collecting Vinyl Records!
-- Favorite Course at UWaterloo: CS349
+#### 🚀 What I'm Doing
 
-##### NOW
+- 🎓 Graduating **August 2025** — seeking **New Grad SWE**!
+- 💼 Internship experience: **Meta**, **Top Hat**, **Boomerang Intelligence**, **RBC**
+- 🌐 Launched my personal website: [**nandinim.design**](https://nandinim.design) — a showcase of my design & development process
+- 📁 Featured repo: [**Design‑Portfolio‑v2**](https://github.com/NandiniMeh/Design-Portfolio-v2) — a React + MUI project blending visual storytelling with UX principles
 
-- ✨ Crafted last - [nandinim.design](https://nandinim.design) website.
-- ✨ Developed - Resume Builder, read the repository for more information and a walkthrough!
-- ✨ Currently in my 3B term of Computer Science at University of Waterloo!
+---
 
+#### 🛠 Tech & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Languages**: JavaScript, TypeScript, Kotlin, Python, SQL, HTML/CSS  
+**Frameworks**: React, Redux, Node.js, Spring Boot, JavaFX, Prisma  
+**Tools**: Git, Figma, Jenkins, Jira, TanStack Query, Jest, Postman  
+
+---
+
+#### 🧪 Selected Projects
+
+- 🌐 [nandinim.design](https://www.nandinim.design/) – My portfolio site!
+- 💳 [CardClarity](https://github.com/LideLinusZhang/CardClarity) – Kotlin + SQLite app for managing and geolocating credit cards
+
+---
+
+#### 📬 Reach Out
+
+- 📧 [n3mehrot@uwaterloo.ca](mailto:n3mehrot@uwaterloo.ca)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nandinimehrotra)  
+- 💻 [GitHub](https://github.com/NandiniMeh)  
+- 🌐 [nandinim.design](https://nandinim.design)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniMeh&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
