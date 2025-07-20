@@ -9,7 +9,6 @@ I'm **Nandini Mehrotra**, a soon-to-be-graduate blending **Computer Science** an
 - 🎓 Graduating **August 2025** — seeking **New Grad SWE**!
 - 💼 Internship experience: **Meta**, **Top Hat**, **Boomerang Intelligence**, **RBC**
 - 🌐 Launched my personal website: [**nandinim.design**](https://nandinim.design) — a showcase of my design & development process
-- 📁 Featured repo: [**Design‑Portfolio‑v2**](https://github.com/NandiniMeh/Design-Portfolio-v2) — a React + MUI project blending visual storytelling with UX principles
 
 ---
 
